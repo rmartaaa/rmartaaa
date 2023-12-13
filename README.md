@@ -1,4 +1,4 @@
-# I'm Rico Marta Gunawan[rmartaaa](https://www.instagram.com/rmartaaa/) 👋
+# I'm Rico Marta Gunawan[rmartaaa] (https://www.instagram.com/rmartaaa/) 👋
 ## About me:
 - Saya merupakan lulusan Sarjana Komputer (S.Kom). Memiliki pengalaman memimpin (ketua Umum) salah satu organisasi di kampus selama periode 2021/2022. Pernah menjadi team PPDB SMK, Pengalaman Menjadi Admin penjualan toko jaringan (Network). Memahami ba
 hasa pemograman dasar PHP dan CSS, memiliki kemampuan editing.
@@ -20,16 +20,8 @@ hasa pemograman dasar PHP dan CSS, memiliki kemampuan editing.
    - Pembukuan Harian, dan Bulanan.
 ---
 
-### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
-
----
-### Connect with me:
+### Sosial Media:
 
 [![website](./img/linkedin-light.svg)](https://id.linkedin.com/in/rico-marta-gunawan-42567b233#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://id.linkedin.com/in/rico-marta-gunawan-42567b233#gh-dark-mode-only)
