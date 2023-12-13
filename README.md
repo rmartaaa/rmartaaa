@@ -1,4 +1,4 @@
-# I'm Rico Marta Gunawan[rmartaaa] (https://www.instagram.com/rmartaaa/) 👋
+# I'm Rico Marta Gunawan [rmartaaa](https://www.instagram.com/rmartaaa/) 👋
 ## About me:
 - Saya merupakan lulusan Sarjana Komputer (S.Kom). Memiliki pengalaman memimpin (ketua Umum) salah satu organisasi di kampus selama periode 2021/2022. Pernah menjadi team PPDB SMK, Pengalaman Menjadi Admin penjualan toko jaringan (Network). Memahami ba
 hasa pemograman dasar PHP dan CSS, memiliki kemampuan editing.
